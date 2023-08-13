@@ -1,4 +1,4 @@
-# **educational project "Socks"**
+# **test work "Socks"**
 ![picture](https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/332034478/original/7e3001346df50408cc372fa3b7db107f9f0d3aba.jpg)
 - records socks income and leave from stock
 - storekeepers make records in database (postgresql)
