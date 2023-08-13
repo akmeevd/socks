@@ -5,6 +5,6 @@
 - there is a need authentication and authorization for entering in app to record socks incoming and leaving
 
 ## for running:
-- [] pack jar file by ```command mvn clean install```
-- [] run app by command ```java -Dspring.datasource.username=*** -Dspring.datasource.password=*** -jar socks-0.0.1-SNAPSHOT.jar```, *** - username and password
+- [ ] pack jar file by ```command mvn clean install```
+- [ ] run app by command ```java -Dspring.datasource.username=*** -Dspring.datasource.password=*** -jar socks-0.0.1-SNAPSHOT.jar```, *** - username and password
 
